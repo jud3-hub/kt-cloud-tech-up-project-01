@@ -1,2 +1,2 @@
-# first-rental-guide
-사회초년생 전월세 계약 가이드 챗봇
+# KT Cloud Tech Up 과정
+기본 및 심화 프로젝트
